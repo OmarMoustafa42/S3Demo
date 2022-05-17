@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">S3Demo</string>
+
+    <string name="clear">Clear</string>
+    <string name="bulk">Bulk</string>
+    <string name="random">Rand</string>
+    <string name="empty">Empty</string>
+
+    <string name="device_label">Device:</string>
+    <string name="device_not_connected">Not Connected</string>
+
+    <string name="status_label">Status:</string>
+    <string name="status_not_connected">Not Connected</string>
+    <string name="status_idle">Idle</string>
+    <string name="status_sneding">Sending</string>
+
+    <string name="scan_failed">Scan Failed</string>
+    <string name="connecting">Connecting</string>
+
+    <string name="packet_label">Packet:</string>
+    <string name="packet_textview">N/A</string>
+
+    <string name="time_label">Time:</string>
+    <string name="time_textview">N/A</string>
+
+    <string name="disconnect">Disconnect</string>
+    <string name="refresh">Refresh</string>
+
+</resources>
